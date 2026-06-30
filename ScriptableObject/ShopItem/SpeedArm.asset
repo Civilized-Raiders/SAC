@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ab15b1e3c743739e16b62859a0c475, type: 3}
+  m_Name: SpeedArm
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItemData
+  itemCode: 6
+  itemName: "\uB0A0\uAC1C \uD314"
+  itemBuyPrice: 250
+  itemSellPrice: 50
+  itemIcon: {fileID: 1040180701, guid: f5459496fff419440b3410c1833e23c6, type: 3}
+  itemIPrefabRef:
+    RawGuidValue: e8e34210e192deb4ba2b54cab1f0092b
+  itemDescription: "\uAE30\uBCF8 \uC774\uB3D9\uC18D\uB3C4\uB97C \uD06C\uAC8C \uC99D\uAC00\uC2DC\uCF1C\uC8FC\uB294
+    \uD314"

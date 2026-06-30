@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ab15b1e3c743739e16b62859a0c475, type: 3}
+  m_Name: DefaultArm
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItemData
+  itemCode: 1
+  itemName: "\uAE30\uBCF8 \uD314"
+  itemBuyPrice: 0
+  itemSellPrice: 0
+  itemIcon: {fileID: -1158723006, guid: 784896949f943984a844530179794226, type: 3}
+  itemIPrefabRef:
+    RawGuidValue: a4947d70e5643e14488d8893b15411c7
+  itemDescription: "\uBAA8\uB450\uAC00 \uC790\uC720\uB86D\uAC8C \uC0AC\uC6A9 \uAC00\uB2A5\uD55C
+    \uAE30\uBCF8\uC73C\uB85C \uC81C\uACF5\uD558\uB294 \uD314"

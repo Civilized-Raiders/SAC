@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ab15b1e3c743739e16b62859a0c475, type: 3}
+  m_Name: MagnetArm
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItemData
+  itemCode: 4
+  itemName: "\uC790\uC11D \uD314"
+  itemBuyPrice: 300
+  itemSellPrice: 100
+  itemIcon: {fileID: 978918182, guid: 07687aa1d033f454cbeb02cff3af27e7, type: 3}
+  itemIPrefabRef:
+    RawGuidValue: 749a6a8c378c75644b491b783702886d
+  itemDescription: "\uBA40\uB9AC \uC788\uB294 \uBB3C\uAC74\uB3C4 \uAC00\uC838\uC62C
+    \uC218 \uC788\uB294 \uD314"

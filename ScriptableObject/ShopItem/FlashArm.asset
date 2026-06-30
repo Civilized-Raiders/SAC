@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ab15b1e3c743739e16b62859a0c475, type: 3}
+  m_Name: FlashArm
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItemData
+  itemCode: 2
+  itemName: "\uC190\uC804\uB4F1 \uD314"
+  itemBuyPrice: 300
+  itemSellPrice: 100
+  itemIcon: {fileID: -2146657812, guid: e0a80436a1c879742ae5444b65c383a4, type: 3}
+  itemIPrefabRef:
+    RawGuidValue: 58cc4b3eeaff8364896200b0fa1177eb
+  itemDescription: "\uC801\uC758 \uB208\uC5D0 \uAC15\uD55C \uBE5B\uC744 \uBE44\uCDB0
+    \uC77C\uC2DC\uC801\uC73C\uB85C \uC6C0\uC9C1\uC774\uC9C0 \uBABB\uD558\uB3C4\uB85D
+    \uB9CC\uB4E4 \uC218 \uC788\uB294 \uD314"
