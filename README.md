@@ -90,8 +90,3 @@ private IEnumerator ShowResultWhenResolved()
 
 <br>
 
-## 👥 팀원 소개
-
-| 이름 | 역할 | GitHub |
-|------|------|--------|
-| YEONJUN LEE | 네트워크(NET) | [@typhoon36](https://github.com/typhoon36) |
